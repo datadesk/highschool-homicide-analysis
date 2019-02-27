@@ -1,0 +1,6 @@
+altair-*.json
+.ipynb_checkpoints
+*.pyc
+*.json
+sc132a.txt
+input/homicides.csv
